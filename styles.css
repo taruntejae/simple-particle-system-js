@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+}
+canvas {
+    background-color:#000;  
+    transition: box-shadow linear 0.1s; 
+}
+canvas:hover{
+    box-shadow:  5px 5px 5px #333;
+}
